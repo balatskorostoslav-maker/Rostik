@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <title>Торт «Наполеон»</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 class="main-title">Торт «Наполеон»</h1>
+
+    <div class="main-content">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Napoleon_cake.jpg/320px-Napoleon_cake.jpg" alt="Торт Наполеон" />
+      <p>
+        Наполеон — це популярний багатошаровий торт із листкового тіста з кремом, який відомий у багатьох країнах СГД і Європи. Його ніжні шари і солодкий заварний крем роблять цей десерт улюбленим для святкових столів.
+      </p>
+    </div>
+
+    <div class="facts-block">
+      <h2>Цікаві факти</h2>
+      <ul>
+        <li>Назва торта може походити від імені Наполеона Бонапарта.</li>
+        <li>В Україні торт відомий під назвою «Наполеон», хоча в Франції цей десерт називається Mille-feuille.</li>
+        <li>Класичний торт готується з 9-12 тонких шарів.</li>
+        <li>Крем в класичної версії — заварний, але існують варіанти з масляним або згущеним молоком.</li>
+        <li>Вважається символом імператорської розкоші і святкового настрою.</li>
+      </ul>
+    </div>
+
+    <div class="table-block">
+      <h2>Характеристики</h2>
+      <table>
+        <tr>
+          <th>Параметр</th>
+          <th>Опис</th>
+        </tr>
+        <tr>
+          <td>Тип тіста</td>
+          <td>Листкове тісто</td>
+        </tr>
+        <tr>
+          <td>Кількість шарів</td>
+          <td>9–12 шарів</td>
+        </tr>
+        <tr>
+          <td>Основний крем</td>
+          <td>Заварний на молоці</td>
+        </tr>
+        <tr>
+          <td>Калорійність</td>
+          <td>~350 ккал на 100 г</td>
+        </tr>
+        <tr>
+          <td>Тривалість приготування</td>
+          <td>3-4 години</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qNJsAdgCRL91VhjQwtwfjGCQii7HIBgf8Q&s
+
+  <footer>
+   виконав Балацко Ростислав Юрійович
+  </footer>
+</body>
+</html>
